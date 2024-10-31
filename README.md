@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/kacperhalaj/output/dist/github-contribution-grid-snake.svg)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
