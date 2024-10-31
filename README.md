@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/kacperhalaj/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/kacperhalaj/kacperhalaj/output/github-contribution-grid-snake.svg)
+
 
 
 - 🔭 I’m currently working on ...
