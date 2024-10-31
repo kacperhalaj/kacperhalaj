@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<--
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,php,vscode,github,git,figma,r,idea,ai" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,postgres,c,cpp,java," /><br>
-    <img src="https://skillicons.dev/icons?i=linux,mint," /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,php,vscode,github,git,figma," />
+    <img src="https://skillicons.dev/icons?i=r,idea,ai,nodejs,express,python,java,c,cpp," /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,linux,mint," /><br>
 </div>
--->
+
 <br/>
 
 <div align="center">
