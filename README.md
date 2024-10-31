@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started:
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/kacperhalaj/kacperhalaj/output/github-contribution-grid-snake.svg)
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kacperhalaj/kacperhalaj/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
