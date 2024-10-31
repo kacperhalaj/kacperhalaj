@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style="background-color: black">
-<style="color: white">
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
+<div align="center" style="background-color: black; color: white; padding: 20px;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kacperhalaj/kacperhalaj/output/github-contribution-grid-snake.svg" />
