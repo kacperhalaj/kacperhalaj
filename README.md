@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css,php,vscode,github,git,figma," />
     <img src="https://skillicons.dev/icons?i=r,idea,ai,nodejs,express,python,java,c,cpp," /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,linux,mint,Photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,linux,mint," /><br>
 </div>
 
 <br/>
