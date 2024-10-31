@@ -1,5 +1,6 @@
 ## Hi there 👋
 <br/>
+
 <!--
 **kacperhalaj/kacperhalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,postgres,c,cpp,java," /><br>
     <img src="https://skillicons.dev/icons?i=linux,mint," /><br>
 </div>
-
+-->
 <br/>
 
 <div align="center">
