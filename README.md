@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center" style="background-color: black; color: white; padding: 20px;">
+<div align="center" style="background-color: black; color: white;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kacperhalaj/kacperhalaj/output/github-contribution-grid-snake.svg" />
